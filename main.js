@@ -1,6 +1,6 @@
 define(function (require, exports, module) {
   "use strict";
-  var commandName = "newHtml",
+  var commandName = "Template",
     Menus = brackets.getModule("command/Menus"),
     CommandManager = brackets.getModule("command/CommandManager"),
     EditorManager = brackets.getModule("editor/EditorManager"),
@@ -10,7 +10,7 @@ define(function (require, exports, module) {
      * Implementation
      */
   function loadhtml() {
-    template = require('text!html-template.html');
+    template = require('text!template.html');
     EditorManager.getCurrentFullEditor()._codeMirror.setValue(template);
   }
   /*

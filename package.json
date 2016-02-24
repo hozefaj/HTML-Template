@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "title": "Add HTML template",
-  "description": "This only let you create a Html skeleton",
-  "homepage": "",
+  "name": "html_template",
+  "title": "Adding boilerplate HTML template",
+  "description": "This lets you create a boilerplate HTML template",
+  "homepage": "https://github.com/hozefaj/HTML-Template.git",
   "version": "1.0.1",
   "author": "Hozefa Jodiawalla",
   "license": "MIT",
