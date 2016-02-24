@@ -1,6 +1,8 @@
-New html
-=======
+HTML-Template
+=============
 
-This only let you create a Html skeleton. 
+Extension for the [Brackets](http://brackets.io/) editor. Creates a boilerplate HTML template.
 
-`Html > Template`
+Usage on `Html > Sample HTML`
+
+> Taking inspiration from [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate)
